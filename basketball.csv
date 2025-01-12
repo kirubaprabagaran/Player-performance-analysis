@@ -1,0 +1,11 @@
+Player_Name,Minutes_Played,Points_Scored,Assists,Rebounds,Steals,Blocks,Turnovers,Field_Goal_Percentage,Three_Point_Percentage,Free_Throw_Percentage,Efficiency_Rating,Plus_Minus,Game_Outcome,Injury_Status
+LeBron James,38,30,11,8,2,1,3,0.55,0.4,0.8,35,+15,Win,Healthy
+Stephen Curry,35,35,7,4,3,0,2,0.6,0.5,0.9,38,+12,Win,Healthy
+Kevin Durant,36,28,5,7,1,2,4,0.5,0.35,0.85,30,+8,Win,Injured
+Giannis Antetokounmpo,37,25,8,12,2,3,5,0.45,0.2,0.7,32,+10,Loss,Healthy
+Luka Doncic,40,32,10,6,1,0,4,0.52,0.38,0.75,31,+5,Loss,Injured
+Kawhi Leonard,34,26,4,5,3,1,1,0.65,0.45,0.82,33,+7,Win,Healthy
+Joel Embiid,39,24,2,15,0,4,3,0.48,0.3,0.78,29,+6,Loss,Injured
+Nikola Jokic,36,20,12,10,2,1,2,0.58,0.42,0.85,34,+9,Win,Healthy
+Damian Lillard,35,33,8,3,2,0,3,0.55,0.45,0.88,36,+11,Win,Healthy
+James Harden,38,27,11,7,2,1,5,0.42,0.33,0.86,28,+4,Loss,Healthy
